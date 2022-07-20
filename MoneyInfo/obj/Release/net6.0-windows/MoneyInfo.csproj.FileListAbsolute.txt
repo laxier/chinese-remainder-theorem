@@ -1,0 +1,63 @@
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.exe
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.deps.json
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.runtimeconfig.json
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.dll
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.pdb
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.Form1.resources
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.InfoForm1.resources
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.InfoForm2.resources
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.Properties.Resources.resources
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.Test.resources
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.AssemblyInfo.cs
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.dll
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\refint\MoneyInfo.dll
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.pdb
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.genruntimeconfig.cache
+C:\Users\Admin\Documents\Programming\C++\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\ref\MoneyInfo.dll
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.exe
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.deps.json
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.runtimeconfig.json
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.dll
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.pdb
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.Form1.resources
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.InfoForm1.resources
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.InfoForm2.resources
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.Properties.Resources.resources
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.Test.resources
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.dll
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\refint\MoneyInfo.dll
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.pdb
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MoneyInfo\MoneyInfo\obj\Release\net6.0-windows\ref\MoneyInfo.dll
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.exe
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.deps.json
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.runtimeconfig.json
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.dll
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\bin\Release\net6.0-windows\MoneyInfo.pdb
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.Form1.resources
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.InfoForm1.resources
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.InfoForm2.resources
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.Properties.Resources.resources
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.Test.resources
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.AssemblyInfo.cs
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.dll
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\refint\MoneyInfo.dll
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.pdb
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\MoneyInfo.genruntimeconfig.cache
+C:\Users\Admin\Documents\Документы\МАИ\Практика\MoneyInfo 15.07\MoneyInfo\obj\Release\net6.0-windows\ref\MoneyInfo.dll
